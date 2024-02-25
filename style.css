@@ -1,0 +1,28 @@
+body{
+ background-color: lightslategray
+}
+.main{
+    margin-left: 610px;
+}
+.game1{
+    max-width: 350px;
+    border-radius: 15px;
+}
+.card1{
+    margin-left: 560px;
+    margin-top: 50px;
+}
+.Description1{
+    margin-left: 10px;
+}
+.gamename1{
+    margin-left: 100px;
+}
+.pp{
+    margin-left: 1425px;
+}
+.game2{
+    max-width: 350px;
+    border-radius: 15px;
+    margin-left: 65px;
+}
